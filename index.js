@@ -106,7 +106,7 @@ function compareAverage(arr1, arr2) {
 //testing compareAverage function 
 console.log(compareAverage(newNumbersArray, numbersAverage));
 
-//Write a function called willBuyDrink that takes a boolean isHotOutside, and a number moneyInPocket, and returns true if it is hot outside and if moneyInPocket is greater than 10.50.
+//Write a function called willBuyDrink that takes a boolean isHotOutside, and a number moneyInPocket, and returns true if it is hot outside and if moneyInPocket is greater than 10.50
 let isHotOutside = true;
 let moneyInPocket = 20.50;
 
